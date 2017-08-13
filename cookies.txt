@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.freestuff.eu	TRUE	/	FALSE	1999999999	PHPSESSID	3tjv2ij7baqbjdt6jmsv1f5pe6
+.pingdom.net	TRUE	/	FALSE	1999999999	__cfduid	db0ccd3605c922c5a915b08bf0d8ac6bf1502602120
+
